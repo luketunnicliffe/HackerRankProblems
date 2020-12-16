@@ -20,6 +20,8 @@ def plusMinus(arr):
 	print(positiveCounter)
 	print(negativeCounter)
 	print(zeroCounter)
+	print("hello")
+
 
 
 plusMinus([-4,3,-9,0,4,1])
